@@ -1,12 +1,10 @@
-### Hi
+### Hello!
 
-I'm 17 and I'm from Ukraine 🇺🇦
+I'm 18 and I'm from Ukraine 🇺🇦
 
 I have interesting in policits and economics. I work technical support in the most popular hosting in the CIS - [Hosting-Minecraft.pro](https://hosting-minecraft.pro).
 
-Also, I have a small Minecraft server with a vanilla + role-play theme - [Frogdream](https://frogdream.xyz).
-
-+ Telegram: imcubelius
++ Telegram channel: https://t.me/cubeliusnotes
 + Discord: Cubelius#0988
 
 ### My skills
