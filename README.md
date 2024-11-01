@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm 18 years old and I'm from Ukraine 🇺🇦
+I don't think you'll see anything interesting here.
 
 + Telegram channel: https://t.me/motorinnotes
 + Discord: arsmotorin
