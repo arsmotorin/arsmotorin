@@ -1,9 +1,9 @@
 ### Hello!
 
-I don't think you'll see anything interesting here.
+HDMI developer.
 
 + Telegram channel: https://t.me/motorinnotes
 + Discord: arsmotorin
 
 ### My skills
-![](https://skillicons.dev/icons?i=java,css,html,figma,cloudflare,discord,nginx,prometheus,grafana,docker&theme=dark)
+![](https://skillicons.dev/icons?i=java,figma,css,html,cloudflare,discord,nginx,prometheus,grafana,docker&theme=dark)
