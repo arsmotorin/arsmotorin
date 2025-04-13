@@ -1,6 +1,6 @@
 ### Hello!
 
-HDMI developer.
+I'm HDMI developer.
 
 + Telegram channel: https://t.me/motorinnotes
 + Discord: arsmotorin
