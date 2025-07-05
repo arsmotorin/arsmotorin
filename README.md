@@ -7,4 +7,4 @@ I'm HDMI developer.
 
 ---
 ### My skills
-![](https://skillicons.dev/icons?i=java,figma,css,html,cloudflare,discord,nginx,prometheus,grafana,docker&theme=dark)
+![](https://skillicons.dev/icons?i=rust,c,java,css,html,discord,nginx,prometheus,docker,figma)
